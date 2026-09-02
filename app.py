@@ -31,7 +31,7 @@ client = HuggingFaceEndpoint(
     task="text-generation",
     max_new_tokens=500,
     temperature=0.2,
-    huggingfacehub_api_token=os.getenv("HUGGINGFACEHUB_API_TOKEN")
+     huggingfacehub_api_token=HF_TOKEN
 )
 
 MODEL = ChatHuggingFace(llm=client)
