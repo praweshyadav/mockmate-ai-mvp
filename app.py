@@ -8,6 +8,13 @@ import streamlit as st
 from dotenv import load_dotenv
 load_dotenv()
 import re
+
+
+HF_TOKEN = os.getenv("HUGGINGFACEHUB_API_KEY")
+
+if not HF_TOKEN:
+    HF_TOKEN = st.secrets.get("HUGGINGFACEHUB_API_KEY")
+    
 # ..................
 # ADD THESE IMPORTS
 import streamlit.components.v1 as components
