@@ -1,0 +1,27 @@
+User validation script
+
+Target users:
+College students / fresh graduates preparing for technical interviews.
+
+Before:
+1. How often do you practice interviews?
+2. What is the hardest part of interview preparation?
+
+After the MVP:
+3. How useful was InterviewPilot? (1–5)
+4. Did the feedback feel actionable? (1–5)
+5. Would you use it again? (Definitely / Probably / Not sure / No)
+6. What was the most useful part?
+7. What should we change?
+8. Would you recommend it to another student? (Yes/No)
+
+Metrics to report:
+- Number of people invited
+- Number who started
+- Number who completed
+- Completion rate
+- Average usefulness score
+- % who said Definitely/Probably
+- Top 3 recurring user comments
+
+Never fabricate numbers. If the sample is small, say so.
