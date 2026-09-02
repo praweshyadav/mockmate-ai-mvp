@@ -6,6 +6,9 @@ MockMate AI is an AI-powered interview practice tool designed to help college st
 It simulates a short **5-question interview**, allows users to answer through **voice or text**, and provides **instant AI-generated scoring and structured feedback** after each answer.
 
 ---
+🚀 Live Demo:
+https://mockmate-ai-interviewer-mvp-xw5zemd2g8jurajrcfzrss.streamlit.app/
+---
 
 ## 🎯 Problem
 
